@@ -6,17 +6,17 @@ const HeroSection = () => {
             <div className="absolute inset-0 flex items-center justify-center px-4">
                 <h1 className="text-white text-4xl md:text-6xl font-bold text-center font-arabic">
                     اِقۡرَاۡ بِاسۡمِ رَبِّكَ الَّذِىۡ خَلَقَ​ۚ‏
-<br />
-<br />
+                    <br />
+                    <br />
 
-Read, ˹O Prophet,˺ in the Name of your Lord Who created—
+                    Read, ˹O Prophet,˺ in the Name of your Lord Who created—
 
-<br />
-<span className="text-2xl md:text-4xl font-normal">
-The Clot (96:1) 
-</span>
+                    <br />
+                    <span className="text-2xl md:text-4xl font-normal">
+                        The Clot (96:1)
+                    </span>
                 </h1>
-                
+
             </div>
         </div>
     );
