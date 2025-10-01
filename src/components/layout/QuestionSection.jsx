@@ -17,25 +17,25 @@ const QuestionSection = () => {
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                     <button
                         onClick={() => handleNavigation("/phase-one")}
-                        className="py-2 px-4 bg-emerald-500 text-white rounded hover:bg-emerald-600 font-bold transition"
+                        className="py-2 px-4 bg-emerald-500 border-2 border-emerald-600 cursor-pointer text-white rounded hover:bg-emerald-600 font-bold transition"
                     >
                         Phase One
                     </button>
                     <button
                         onClick={() => handleNavigation("/phase-two")}
-                        className="py-2 px-4 bg-emerald-500 text-white rounded hover:bg-emerald-600 font-bold transition"
+                        className="py-2 px-4 bg-emerald-500 border-2 border-emerald-600 cursor-pointer text-white rounded hover:bg-emerald-600 font-bold transition"
                     >
                         Phase Two
                     </button>
                     <button
                         onClick={() => handleNavigation("/phase-three")}
-                        className="py-2 px-4 bg-emerald-500 text-white rounded hover:bg-emerald-600 font-bold transition"
+                        className="py-2 px-4 bg-emerald-500 border-2 border-emerald-600 cursor-pointer text-white rounded hover:bg-emerald-600 font-bold transition"
                     >
                         Phase Three
                     </button>
                     <button
                         onClick={() => handleNavigation("/phase-four")}
-                        className="py-2 px-4 bg-emerald-500 text-white rounded hover:bg-emerald-600 font-bold transition"
+                        className="py-2 px-4 bg-emerald-500 border-2 border-emerald-600 cursor-pointer text-white rounded hover:bg-emerald-600 font-bold transition"
                     >
                         Phase Four
                     </button>

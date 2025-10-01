@@ -8,9 +8,9 @@ const Contact = () => {
         {/* Left Column - Logo */}
         <div className="flex justify-center items-center mb-6 md:mb-0 md:mr-8">
           <img
-            src="/src/assets/logo.png"
+            src="https://i.postimg.cc/QHx6SLjv/logo.png"
             alt="Logo"
-            className="w-full"
+            className="w-32 h-32 md:w-48 md:h-48 object-contain"
           />
         </div>
 
