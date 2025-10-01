@@ -8,6 +8,7 @@ import PhaseOne from './pages/PhaseOne'
 import PhaseTwo from './pages/PhaseTwo'
 import PhaseThree from './pages/PhaseThree'
 import PhaseFour from './pages/PhaseFour'
+import Dars from './pages/Dars'
 // ... other imports
 
 function App() {
@@ -23,6 +24,7 @@ function App() {
           <Route path="/phase-two" element={<PhaseTwo />} />
           <Route path="/phase-three" element={<PhaseThree />} />
           <Route path="/phase-four" element={<PhaseFour />} />
+          <Route path="/dars" element={<Dars />} />
           {/* ... other routes */}
         </Routes>
         <Footer />

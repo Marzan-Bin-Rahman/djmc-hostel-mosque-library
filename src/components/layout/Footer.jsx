@@ -13,8 +13,9 @@ const Footer = () => {
         {/* Middle Section: Internal Links */}
         <div className="flex flex-col space-y-2">
           <a href="/" className="block text-gray-700 font-medium hover:text-emerald-500 px-2 py-1 rounded md:inline md:font-bold md:hover:font-extrabold md:hover:underline decoration-wavy decoration-emerald-500 underline-offset-4 transition-all duration-300 ease-in-out">Home</a>
-          <a href="/contact" className="block text-gray-700 font-medium hover:text-emerald-500 px-2 py-1 rounded md:inline md:font-bold md:hover:font-extrabold md:hover:underline decoration-wavy decoration-emerald-500 underline-offset-4 transition-all duration-300 ease-in-out">Contact</a>
+          <a href="/dars" className="block text-gray-700 font-medium hover:text-emerald-500 px-2 py-1 rounded md:inline md:font-bold md:hover:font-extrabold md:hover:underline decoration-wavy decoration-emerald-500 underline-offset-4 transition-all duration-300 ease-in-out">Dars-E-Quran</a>
           <a href="/about" className="block text-gray-700 font-medium hover:text-emerald-500 px-2 py-1 rounded md:inline md:font-bold md:hover:font-extrabold md:hover:underline decoration-wavy decoration-emerald-500 underline-offset-4 transition-all duration-300 ease-in-out">About Us</a>
+          <a href="/contact" className="block text-gray-700 font-medium hover:text-emerald-500 px-2 py-1 rounded md:inline md:font-bold md:hover:font-extrabold md:hover:underline decoration-wavy decoration-emerald-500 underline-offset-4 transition-all duration-300 ease-in-out">Contact</a>
         </div>
 
         {/* Right Section: External Links */}

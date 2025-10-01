@@ -26,10 +26,11 @@ const Navbar = () => {
                 </li>
                 <li className="relative group">
                     <a
-                        href="/about"
+                        href="/dars"
                         className="block text-gray-700 font-medium hover:text-emerald-500 px-2 py-1 rounded md:inline md:font-bold md:hover:font-extrabold md:hover:underline decoration-wavy decoration-emerald-500 underline-offset-4 transition-all duration-300 ease-in-out"
                     >
-                        About Us
+                        Dars-E-Quran
+
                     </a>
                 </li>
                 <li className="relative group">
@@ -39,6 +40,13 @@ const Navbar = () => {
                     >
                         Contact
                     </a>
+                </li>
+                <li className="relative group">
+                    <a
+                        href="/about"
+                        className="block text-gray-700 font-medium hover:text-emerald-500 px-2 py-1 rounded md:inline md:font-bold md:hover:font-extrabold md:hover:underline decoration-wavy decoration-emerald-500 underline-offset-4 transition-all duration-300 ease-in-out"
+                    >
+                        About Us                    </a>
                 </li>
             </ul>
 
