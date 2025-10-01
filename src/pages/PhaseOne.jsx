@@ -51,7 +51,7 @@ const PhaseOne = () => {
       <div className="max-w-7xl mx-auto">
         {sections.map((section, index) => (
           <div key={index} className="mb-8">
-            <h2 className="text-2xl font-bold mb-4">{section.title}</h2>
+            <h2 className="text-2xl font-bold text-gray-700 mb-4">{section.title}</h2>
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
               {section.links.map((link, idx) => (
                 <a
