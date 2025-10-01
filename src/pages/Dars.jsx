@@ -80,6 +80,7 @@ const Dars = () => {
     return (
         <section className="border-2 border-[#d3c8b8] bg-[#f8ead4] rounded-xl mb-12 mt-32 mx-4 p-4">
             <h1 className="text-4xl md:text-7xl text-gray-700 font-extrabold text-center mb-2">Dars-E-Quran</h1>
+            <h2 className="text-center mb-5 text-xl text-gray-700 md:text-2xl font-semibold">To attend dars you can come to the Dr. Yousuf Ali Boys Hostel, Dinajpur Medical College after Maghrib at Sunday.</h2>
             <p className='text-rose-700 text-center mb-5'>These links are only valid for the members of the telegram group</p>
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
                 {cards.map((card, index) => (
