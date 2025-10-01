@@ -3,6 +3,8 @@
 /* Custom CSS Variables for shadcn/ui compatibility */
 @theme{
   --font-arabic: 'Amiri', serif;
+  --bg-primary: #f8ead4;
+  --bg-secondary: #e0d7c3;
 }
 
 body{
