@@ -11,9 +11,9 @@ const PhaseOne = () => {
     { label: 'Card 3', url: 'https://drive.google.com/file/d/1TXl6HEHVkZbY42a6Iqhd8AJS9j1Jqgog/view?usp=drivesdk' },
     { label: 'Card 4', url: 'https://drive.google.com/file/d/1OdMSAtYBUEJDCPF9_6KNet2kt4FMrFxt/view?usp=drivesdk' },
     { label: 'Second Term', url: 'https://drive.google.com/file/d/1GC4An2b5VvW7Z5qpzftjb01e5n9u4Z47/view?usp=drivesdk' },
-    { label: 'Card 5', url: 'https://linkedin.com' },
-    { label: 'Card 6', url: 'https://twitter.com' },
-    { label: 'Third Term', url: 'https://bbc.com' }
+    { label: 'Card 5', url: 'https://drive.google.com/file/d/1woLAcKj2eJdS6lsXaQ5CZo5DcJLqP_-3/view?usp=drivesdk' },
+    { label: 'Card 6', url: 'https://drive.google.com/file/d/1Ay5jgkOMbf7gww3fpnOG8ZmiDRyjjt86/view?usp=drivesdk' },
+    { label: 'Third Term', url: 'https://drive.google.com/file/d/1PFi4n0MsAVplftf5YDDVNB9hrh-Hf-Hv/view?usp=drivesdk' }
   ] 
 },
 { 
@@ -25,9 +25,10 @@ const PhaseOne = () => {
     { label: 'Card 3', url: 'https://drive.google.com/file/d/1cXvWvvD6Z6CWG_qnnRZI5OngaX2LQZQ7/view?usp=drivesdk' },
     { label: 'Card 4', url: 'https://drive.google.com/file/d/1kVvCVLvmZ1_W0VmX5bHuKkgs1Jdffifz/view?usp=drivesdk' },
     { label: 'Second Term', url: 'https://drive.google.com/file/d/1G6emDXIIrbJMHEkpd-xSaI-XrqyGocDQ/view?usp=drivesdk' },
-    { label: 'Card 5', url: 'https://quora.com' },
-    { label: 'Card 6', url: 'https://pinterest.com' },
-    { label: 'Third Term', url: 'https://cnn.com' }
+    { label: 'Card 5', url: 'https://drive.google.com/file/d/1i5gSx-Rpxpl05bcbAqEaIPVPNvCr89Rn/view?usp=drivesdk' },
+    { label: 'Card 6', url: 'https://drive.google.com/file/d/1h8aKv75dDE-_IuRQEDJdrd65ilDkdKuH/view?usp=drivesdk' },
+{ label: 'Card 7', url: 'https://drive.google.com/file/d/1wy7aoRZRiTLbcVFww4FhI0H_GNjGatEJ/view?usp=drivesdk' },
+    { label: 'Third Term', url: 'https://drive.google.com/file/d/1keiQNXJLSfkAb76cyC2QDEn5TjbM1Yzm/view?usp=drivesdk' }
   ] 
 },
 { 
@@ -39,9 +40,9 @@ const PhaseOne = () => {
     { label: 'Card 3', url: 'https://drive.google.com/file/d/10XXVDWaJzBKucOQ2V5DpbTmpbZG-feD7/view?usp=drivesdk' },
     { label: 'Card 4', url: 'https://drive.google.com/file/d/1ic-7qBTlvMWs8y3702-b9-r-F3ZrLEJj/view?usp=drivesdk' },
     { label: 'Second Term', url: 'https://elsevier.com' },
-    { label: 'Card 5', url: 'https://springer.com' },
-    { label: 'Card 6', url: 'https://jamanetwork.com' },
-    { label: 'Third Term', url: 'https://who.int' }
+    { label: 'Card 5', url: 'https://drive.google.com/file/d/13s6eHA16gkB5DE585cQtCbk8ivW5oYRG/view?usp=drivesdk' },
+    { label: 'Card 6', url: 'https://drive.google.com/file/d/1z66zirazeEgm58VTxPACitoN__ZYdQRr/view?usp=drivesdk' },
+    { label: 'Third Term', url: 'https://drive.google.com/file/d/1sGFzXC-EkaB9LkrxKYvlw1ts99yu392w/view?usp=drivesdk' }
   ] 
 }
   ];
