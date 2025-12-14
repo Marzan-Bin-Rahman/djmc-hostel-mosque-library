@@ -3,24 +3,24 @@ import React from 'react'
 const PhaseThree = () => {
   const sections = [
     {
-      title: 'Pharmacology & Therapeutics',
+      title: 'Community medicine',
       links: [
-        { label: 'First Term', url: 'https://youtube.com' },
-        { label: 'Second Term', url: 'https://wikipedia.org' },
+        { label: 'First Term', url: 'https://drive.google.com/file/d/1jfmGMZxv7B0sLQ9m-Czpz-weGiLSw-Gi/view?usp=drivesdk' },
+        { label: 'Second Term', url: 'https://drive.google.com/file/d/1OnWQMvg84e65ZfqgPqgQ-XR7tZRJfUfp/view?usp=drivesdk' },
       ]
     },
     {
       title: 'Pathology',
       links: [
-        { label: 'First Term', url: 'https://khanacademy.org' },
-        { label: 'Second Term', url: 'https://britannica.com' },
+        { label: 'First Term', url: 'https://drive.google.com/file/d/1YArooxZXef9d_y-zm13RTSFmEc405V9w/view?usp=drivesdk' },
+        { label: 'Second Term', url: 'https://drive.google.com/file/d/1Vo0Jh4TxCsOK12ZhF-O-_fcpgU4DNQvV/view?usp=drivesdk' },
       ]
     },
     {
       title: 'Microbiology',
       links: [
-        { label: 'First Term', url: 'https://khanacademy.org' },
-        { label: 'Second Term', url: 'https://britannica.com' },
+        { label: 'First Term', url: 'https://drive.google.com/file/d/18EsLg1SFoPKUaUWwPneT5rSiNKio4jpm/view?usp=drivesdk' },
+        { label: 'Second Term', url: 'https://drive.google.com/file/d/1XMiiV_QDoXDhjdiZK5cUTYsepNxy-wiZ/view?usp=drivesdk' },
       ]
     },
   ];
