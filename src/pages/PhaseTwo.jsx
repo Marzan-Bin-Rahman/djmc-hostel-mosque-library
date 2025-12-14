@@ -3,17 +3,17 @@ import React from 'react'
 const PhaseTwo = () => {
   const sections = [
     { 
-  title: 'Community Medicine', 
+  title: 'Pharmacology and therapeutics', 
   links: [
-    { label: 'First Term', url: 'https://youtube.com' },
-    { label: 'Second Term', url: 'https://wikipedia.org' },
+    { label: 'First Term', url: '#' },
+    { label: 'Second Term', url: '#' },
   ] 
 },
 { 
   title: 'Forensic Medicine', 
   links: [
-    { label: 'First Term', url: 'https://khanacademy.org' },
-    { label: 'Second Term', url: 'https://britannica.com' },
+    { label: 'First Term', url: '#' },
+    { label: 'Second Term', url: '#' },
   ] 
 }
   ];
