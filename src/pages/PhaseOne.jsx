@@ -39,7 +39,7 @@ const PhaseOne = () => {
     { label: 'First Term', url: 'https://researchgate.net' },
     { label: 'Card 3', url: 'https://drive.google.com/file/d/10XXVDWaJzBKucOQ2V5DpbTmpbZG-feD7/view?usp=drivesdk' },
     { label: 'Card 4', url: 'https://drive.google.com/file/d/1ic-7qBTlvMWs8y3702-b9-r-F3ZrLEJj/view?usp=drivesdk' },
-    { label: 'Second Term', url: 'https://elsevier.com' },
+    { label: 'Second Term', url: 'https://drive.google.com/file/d/15othXZKkwMZ-Qi_TKJvaHkSc4Q83KbNl/view?usp=drivesdk' },
     { label: 'Card 5', url: 'https://drive.google.com/file/d/13s6eHA16gkB5DE585cQtCbk8ivW5oYRG/view?usp=drivesdk' },
     { label: 'Card 6', url: 'https://drive.google.com/file/d/1z66zirazeEgm58VTxPACitoN__ZYdQRr/view?usp=drivesdk' },
     { label: 'Third Term', url: 'https://drive.google.com/file/d/1sGFzXC-EkaB9LkrxKYvlw1ts99yu392w/view?usp=drivesdk' }
